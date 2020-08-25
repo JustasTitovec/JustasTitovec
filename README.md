@@ -12,4 +12,4 @@ Here are some facts about me:
 
 **Languages and Tools:**
 <img align="center" alt="html5" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<img align="center" alt="css" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css.svg" />
+<img align="center" alt="css" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/js.svg" />
