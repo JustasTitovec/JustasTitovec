@@ -19,6 +19,7 @@ Here are some facts about me:
 <img align="center" alt="vuejs" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vue-dot-js.svg" />
 <img align="center" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg" />
 <img align="center" alt="sass" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sass.svg" />
+<img align="center" alt="materialUI" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/material-ui.svg" />
 
 
 
