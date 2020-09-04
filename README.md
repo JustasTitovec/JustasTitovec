@@ -6,7 +6,7 @@ Here are some facts about me:
 - 🔭 I’m currently working on my health and improving coding skills. 
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on cool React.js projects 
-- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/justas-titovec-69877517a/) <img href='https://www.linkedin.com/in/justas-titovec-69877517a/' src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/justas-titovec-69877517a/) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I needed 6 years for working in logistics industry, to find out that coding is more fun and satisfying thing. 😃
 
