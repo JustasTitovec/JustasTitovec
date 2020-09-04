@@ -10,7 +10,7 @@ Here are some facts about me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I needed 6 years for working in logistics industry, to find out that coding is more fun and satisfying thing. 😃
 
-##Languages and tools
+*Languages and tools*
 
 <img align="left" alt="html5" width="35px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" alt="html5" width="35px"  src="https://img.icons8.com/color/48/000000/css3.png"/>
