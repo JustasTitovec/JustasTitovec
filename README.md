@@ -12,6 +12,8 @@ Here are some facts about me:
 
 **Languages and tools**
 
+<img align="left" alt="html5" width="25px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
+
 <img align="left" alt="html5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" /> 
 <img align="left" alt="css" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="javascript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" /> 
