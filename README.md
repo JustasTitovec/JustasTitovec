@@ -11,6 +11,7 @@ Here are some facts about me:
 - ⚡ Fun fact: I needed 6 years for working in logistics industry, to find out that coding is more fun and satisfying thing. 😃
 
 **Languages and Tools:**
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 <img align="center" alt="html5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="center" alt="css" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="center" alt="javascript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
