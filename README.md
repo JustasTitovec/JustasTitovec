@@ -12,15 +12,15 @@ Here are some facts about me:
 
 **Languages and tools**
 
-<img align="left" alt="html5" width="25px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
-<img align="left" alt="html5" width="25px"  src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="html5" width="25px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="html5" width="25px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="html5" width="25px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
-<img align="left" alt="html5" width="25px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img align="left" alt="html5" width="25px"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="html5" width="25px"  src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img align="left" alt="html5" width="25px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+<img align="left" alt="html5" width="30px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
+<img align="left" alt="html5" width="30px"  src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="html5" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" alt="html5" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="html5" width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img align="left" alt="html5" width="30px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img align="left" alt="html5" width="30px"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="html5" width="30px"  src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" alt="html5" width="30px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 
 <img align="left" alt="html5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" /> 
 <img align="left" alt="css" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
