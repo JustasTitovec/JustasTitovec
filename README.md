@@ -7,7 +7,7 @@ Here are some facts about me:
 - 🌱 I’m currently learning advanced React.js / Redux course.
 - 👯 I’m looking to collaborate on cool React.js projects. 
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/justas-titovec-69877517a/) 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I needed 6 years for working in logistics industry, to find out that coding is more fun and satisfying thing. 😃
 
 ***Languages and tools***
