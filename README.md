@@ -1,14 +1,3 @@
-### Hi there I'm Justas 👋
-
-
-Here are some facts about me:
-
-- 🔭 I’m currently working on my health and improving coding skills. 
-- 🌱 I’m currently studying React Native course.
-- 👯 I’m looking to collaborate on cool React.js projects. 
-- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/justas-titovec-69877517a/) 
-- ⚡ Fun fact: I needed 6 years for working in logistics industry, to find out that coding is more fun and satisfying thing. 😃
-
 ***Languages and tools***
 
 <img align="left" alt="html5" width="35px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
